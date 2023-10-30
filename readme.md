@@ -12,4 +12,9 @@ Caso a renda para cada membro da família seja maior ou igual a R$500,00 o impos
 * salário bruto (a partir de 2.826,66): 15%
 * Ao final, mostre na tela o valor do salário líquido. 
 
-Versão 10 - Comandos de Repetição Aninhados
+Armazene os salário líquidos em uma coleção indexada (array).
+
+Depois, calcule a média de todos os salários líquidos.
+Posteriormente, mostre a média dos salários líquidos e quantas pessoas estão abaixo desse valor médio.
+
+Versão 11 - Coleções (Arrays)
